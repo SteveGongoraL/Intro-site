@@ -10,7 +10,7 @@ Estilos del header
 .headerStyle {
     display: flex;
     justify-content: center;
-    background-color: #C70039;
+    background-color: #81ABBC;
     width: 100%;
 }
 /* Estilos para las imágenes */
@@ -60,13 +60,13 @@ Estilos de sección Instrucciones.
 Estilos Sección de Botonería.
 */
 .btn-section {
-    background-color:#FF6969; /* #3085C3 */
+    background-color:#774A62;
     padding: 20px;
     border-radius: 0px 0px 10px 10px;
 }
 /* Contenedor de todos las cards. */
 .botoneria{
-    background-color: #ffdede;/* #d9e5e7e0 */
+    background-color: #ffdede;
     border-radius: 10px;
     display: flex;
     justify-content: space-around;
@@ -107,13 +107,13 @@ Estilos de Boton Continuar
     font-size: 15px;
     padding: 10px 25px 10px 25px;
     text-decoration: none;
-    border-radius: 17px;
+    border-radius: 12px;
     box-shadow: 0px 1px 3px #666666;
     text-shadow: 1px 1px 3px #666666;
     border: solid #ffffff 2px;
-    background-color: #12486B;
+    background-color: #313E61;
     cursor: pointer;
 }
 .redirect-button:hover {
-    background: #141E46;
+    background: #0e1534;
 }
