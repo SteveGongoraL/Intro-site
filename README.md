@@ -1,5 +1,5 @@
 # Proyecto de Página Principal con Indicaciones
-![main](https://github.com/SteveGongoraL/Intro-site/assets/55302658/6b5f1f03-f15a-4649-a097-71e80aa575b0)
+![main](https://github.com/SteveGongoraL/Intro-site/assets/55302658/1a64e31f-6a0c-4f22-9a1d-8c912e14b85a)
 Este proyecto es una página web que proporciona indicaciones sobre cómo utilizar un sitio web. Incluye secciones de bienvenida, instrucciones y un panel de botones para una navegación fácil y accesible.
 
 ## Contenido
